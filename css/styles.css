@@ -64,7 +64,7 @@ p{
     background-color:  rgba(194, 205, 241, 0.15);
     display: inline;
     padding: 1.5rem 3rem;
-    border:solid 0.12rem rgba(0, 0, 0, 0.2);
+    border:solid 0.12rem rgba(0, 0, 0, 0.4);
     border-radius: 1.5rem;
 
 }
